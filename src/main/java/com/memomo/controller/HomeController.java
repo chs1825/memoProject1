@@ -26,9 +26,8 @@ public class HomeController {
     @GetMapping("/")
     public String index(Model model) {
 
-//        Optional<User> user = userService.getUserById("chs1825");
-//        System.out.println(user);
-//        model.addAttribute("data", user);
+        Optional<User> user = userService.getUserById("chs1825");
+        model.addAttribute("data", user);
 
         return "mainPage";
 
