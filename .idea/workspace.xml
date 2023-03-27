@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="84abe95c-9262-40ef-b228-fdbdc293ac4d" name="Changes" comment="2023.03.23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/config/AppConfig.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memomo/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/controller/read/ReadMemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memomo/controller/read/ReadMemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memomo/service/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +137,7 @@
       <workItem from="1679817111680" duration="900000" />
       <workItem from="1679887551869" duration="1968000" />
       <workItem from="1679902968718" duration="6641000" />
+      <workItem from="1679925413696" duration="1338000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <created>1679495028540</created>
@@ -189,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679666953598</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2023.03.23">
+      <created>1679925513310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679925513311</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
