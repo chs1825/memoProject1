@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="84abe95c-9262-40ef-b228-fdbdc293ac4d" name="Changes" comment="2023.03.23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memomo/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memomo/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/controller/read/ReadMemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memomo/controller/read/ReadMemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/repository/UserRepository.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/memomo/service/UserService.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -78,7 +80,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.47126436&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;a105a155ee86323a6d1c031d3b30584c&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -89,6 +91,7 @@
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/config" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.memomo.repository" />
       <recent name="com.memomo.controller" />
     </key>
   </component>
@@ -131,7 +134,11 @@
       <workItem from="1679479028286" duration="213000" />
       <workItem from="1679494890447" duration="1240000" />
       <workItem from="1679578590178" duration="3498000" />
-      <workItem from="1679625157905" duration="1644000" />
+      <workItem from="1679625157905" duration="9513000" />
+      <workItem from="1679816945148" duration="126000" />
+      <workItem from="1679817111680" duration="900000" />
+      <workItem from="1679887551869" duration="1968000" />
+      <workItem from="1679902968718" duration="6641000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <created>1679495028540</created>
@@ -175,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679580821830</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2023.03.23">
+      <created>1679666953598</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679666953598</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
